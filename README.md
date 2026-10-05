@@ -14,15 +14,10 @@ Browser-based drag-racing game prototype focused on realistic tuning, reaction t
 
 src/sim contains pure race simulation logic. Rendering and interaction are kept separately so physics can be tested without a browser.
 
-## Run
-- npm install
-- npm test
-- npm run dev
-- npm run build
+## Source access
 
-Portfolio snapshot of an actively developed game project.
+The complete implementation is kept in a private source archive. For serious commercial discussions, a live walkthrough, architecture review, or controlled private code review can be arranged.
 
 ## Usage and licensing
 
-This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [LICENSE.md](LICENSE.md).
-
+This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [PROPRIETARY-NOTICE.md](PROPRIETARY-NOTICE.md).
